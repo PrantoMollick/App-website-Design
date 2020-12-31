@@ -1,0 +1,22 @@
+/*
+Template: Main  Style file
+*/
+
+/*BOOTSTRAP FILES*/
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+/*OWL CAROUSEL*/
+@import '../node_modules/owl.carousel/src/scss/owl.carousel.scss';
+@import '../node_modules/owl.carousel/src/scss/owl.theme.default.scss';
+
+/*GOOGLE FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Nunito&display=swap');
+
+/* TEMPLATES */
+@import'./include/variable';
+@import './include/global';
+@import './include/header';
+@import './include/banner';
+@import './include/tech';
+@import './include/security';
+@import './include/footer';

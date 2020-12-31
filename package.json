@@ -1,0 +1,23 @@
+{
+  "name": "daily_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "html",
+    "website"
+  ],
+  "author": "Pranto Mollick",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "owl.carousel": "^2.3.4",
+    "sass": "^1.30.0"
+  }
+}
